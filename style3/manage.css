@@ -1,0 +1,19 @@
+@CHARSET "UTF-8";
+
+
+#member #member_main{
+	width:620px;
+	height:570px;
+	margin:15px;
+	border:1px solid #999;
+	float:right;
+}
+#member #member_main dl{
+	width:500px;
+	margin:15px auto;
+	font-size:14px;
+}
+#member #member_main dl dd{
+	padding:10px 2px;
+	border-bottom	:1px solid #999;
+}

@@ -1,0 +1,161 @@
+@CHARSET "UTF-8";
+#list dl dd{
+	text-align:center;
+	padding:5px 0;
+}
+
+#list{
+	width:600px;
+	height:514px;
+	border:2px solid #ccc;
+	float:right;
+}
+#list a.post{
+	display:block;
+	height:33px;
+	width:114px;
+	background:url(../image/aricle.jpg) no-repeat;
+	text-indent:-9999px;
+	margin:10px 10px 0 auto; 
+}
+#list ul.article {
+	padding:10px 50px;
+}
+#list ul.article li{
+	height:30px;
+	line-height:30px;
+	border-bottom:1px solid #333;
+}
+#list ul.article li em{
+	float:right;
+	font-style:normal;
+}
+#list ul.article li a:hover{
+	color:#333;
+	
+}
+#list ul.article  li {
+	padding:0 0 0 25px;
+}
+#list ul.article li.icon1{
+	background:url(../image/icon1.gif) no-repeat left center;
+}
+#list ul.article li.icon2{
+	background:url(../image/icon2.gif) no-repeat left center;
+}
+#list ul.article li.icon3{
+	background:url(../image/icon3.gif) no-repeat left center;
+}
+#list ul.article li.icon4{
+	background:url(../image/icon4.gif) no-repeat left center;
+}
+#list ul.article li.icon5{
+	background:url(../image/icon5.gif) no-repeat left center;
+}
+#list ul.article li.icon6{
+	background:url(../image/icon6.gif) no-repeat left center;
+}
+#list ul.article li.icon7{
+	background:url(../image/icon7.gif) no-repeat left center;
+}
+#list ul.article li.icon8{
+	background:url(../image/icon8.gif) no-repeat left center;
+}
+#list ul.article li.icon9{
+	background:url(../image/icon9.gif) no-repeat left center;
+}
+#list ul.article li.icon10{
+	background:url(../image/icon10.gif) no-repeat left center;
+}#list ul.article li.icon11{
+	background:url(../image/icon11.gif) no-repeat left center;
+}#list ul.article li.icon12{
+	background:url(../image/icon1.gif) no-repeat left center;
+}#list ul.article li.icon12{
+	background:url(../image/icon12.gif) no-repeat left center;
+}#list ul.article li.icon13{
+	background:url(../image/icon13.gif) no-repeat left center;
+}#list ul.article li.icon14{
+	background:url(../image/icon14.gif) no-repeat left center;
+}#list ul.article li.icon15{
+	background:url(../image/icon15.gif) no-repeat left center;
+}
+#user{
+	width:340px;
+	height:250px;
+	border:2px solid #ccc;
+	float:left;
+	margin:0 0 10px 0;
+	font-size:12px;
+}
+
+
+#user h2 {
+	text-indent:0;
+	text-align:center;
+}
+#user dl{
+	width:170px;
+	margin:0 auto;
+	padding:10px 0 0 0;
+	
+}
+#user dl dt{
+	width:150px;
+	margin:0  0 5px 0;
+}
+#user dl dt img{
+	margin:0 auto;
+	display:block;
+}
+#user dl dd{
+	text-align:center;
+	height:20px;
+	line-height:20px;
+	width:75px;
+	float:left;
+}
+#user dl dd.email ,#user dl dd.url{
+	width:170px;
+	text-align:left;
+	padding:2px 0 0 0 ;
+	text-indent:5px;
+}
+#user dl dd.username{
+	width:150px;
+	float:none;
+	color:#f60;
+}
+#user dl dd a{
+	text-decoration:none;
+	color:#333;
+}
+#user dl dd.message{
+	background:url(../image/x1.gif)no-repeat 5px 35%;
+	
+}
+#user dl dd.friend{
+	background:url(../image/x2.gif)no-repeat left 35%;
+	
+}#user dl dd.guest{
+	background:url(../image/x3.gif)no-repeat 5px 35%;
+	
+}#user dl dd.flower{
+	background:url(../image/x4.gif)no-repeat 5px 35%;
+	
+}
+
+
+#pics{
+	width:340px;
+	height:250px;
+	border:2px solid #ccc;
+	float:left;
+}
+#pics h2{
+	text-align:center;
+}
+#pics img{
+	display:block;
+	margin:20px auto;
+	border:none;
+}
